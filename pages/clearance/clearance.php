@@ -113,7 +113,7 @@ ini_set('display_errors', 1);
                             <form method="post">
                                 <div class="tab-content">
                                     <div id="pending" class="tab-pane active">
-                                        <table id="table pendingTable" class="table table-bordered table-striped">
+                                        <table id="pendingTable" class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
                                                     <th style="width: 20px !important;">

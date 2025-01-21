@@ -151,7 +151,7 @@ body::before {
         text-indent: 20px;
     }
     .small-text {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     .head {
         font-family: 'Times New Roman', Times, serif;
@@ -228,20 +228,20 @@ body::before {
                     <br>
                     <h3 class="text-lg font-bold small-text" style="font-size: 0.9rem;">OFFICE OF THE PUNONG BARANGAY</h3>
                     <br>
-                    <h1 class="text-xl font-bold text-green-600 small-text" style="font-size: 1.5rem;">CERTIFICATE OF INDIGENCY</h1>
+                    <h1 class="text-xl font-bold text-blue-600 small-text" style="font-size: 1.5rem;">BARANGAY CLEARANCE</h1>
                     <br>
                 </div>
                 <div class="mb-4">
                     <p class="small-text"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TO WHOM IT MAY CONCERN:</p>
                     <br>
                     <p class="mt-2 small-text indent" style="text-align: justify;">
-                        &nbsp;&nbsp;&nbsp;&nbsp;This is to certify that family of 
+                        &nbsp;&nbsp;&nbsp;&nbsp;This is to certify that 
                         <span class="underline font-bold" style="text-transform: uppercase;"><?php echo $requesteeName; ?></span>
-                        , lives on the poverty line and is one of the indigent families living in our barangay.
+                        , a resident of barangay Taboc, San Juan, La Union, is known to me personally to be a person of good moral character, comes from a family of good standing and reputation in the community. Furthermore, this person is known to me as a peaceful, law-abiding citizen and to the best of my knowledge and belief is not connected to any group or element subversive to the government.
                     </p>
                     <br>
                     <p class="mt-2 small-text indent" style="text-align: justify;">
-                        &nbsp;&nbsp;&nbsp;&nbsp;This certification is issued upon the request of the aboved-named person for all legal purposes and lawful intents this may serve him/her.
+                        &nbsp;&nbsp;&nbsp;&nbsp;This certification is issued upon the request of the interested party for all legal intents and purposes.
                     </p>
                     <br>
                     <p class="mt-2 small-text">

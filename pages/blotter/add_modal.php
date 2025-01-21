@@ -1,4 +1,6 @@
 <!-- ========================= MODAL ======================= -->
+
+<!-- test -->
 <div id="addModal" class="modal fade">
     <form class="form-horizontal" method="post" enctype="multipart/form-data" action="function.php">
         <div class="modal-dialog modal-lg">
